@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+- I am focused and self-motivated individual looking to build a career in Information technology and its
+services. Deeply interested in how the application of information technology can help in solving
+prevalent business problems and improve business processes. Interested in Software system
+engineering, cloud based application management and information systems management.
+
+- 🔭 I’m currently working on my portfolio which will be available on ekographs.com
+
 <!--
 **ekographs/ekographs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
